@@ -1,2 +1,2 @@
-# DatabaseClassProjects
-SQL Queries, ERD Diagrams and other deliverables from the Database Class
+# CollegeClassScheduleDatabase
+Developed an ERD and created a database for the provided college class schedule data
